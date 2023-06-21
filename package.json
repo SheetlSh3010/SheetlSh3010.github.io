@@ -1,0 +1,23 @@
+{
+  "name": "sheetlsh3010.github.io",
+  "version": "1.0.0",
+  "description": "This is my portfolio created using HTML, CSS, JavaScript which includes my projects, github data , skills and brief details of my coding journey.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SheetlSh3010/SheetlSh3010.github.io.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SheetlSh3010/SheetlSh3010.github.io/issues"
+  },
+  "homepage": "https://github.com/SheetlSh3010/SheetlSh3010.github.io#readme",
+  "dependencies": {
+    "github-calendar": "^2.3.2"
+  }
+}
