@@ -43,13 +43,13 @@ GitHubCalendar(".calendar", "SheetlSh3010", {
 
 document.getElementById("resume-button-1").onclick = () => {
   window.open(
-    "https://drive.google.com/file/d/1HdwsEM9gQf6qFOw4x_Ya_qzoweu4mrra/view?usp=drive_link"
+    "https://drive.google.com/file/d/1uQlh0-uBj4Noj6_06XWBaDLKqBrEcwuY/view?usp=sharing"
   );
 };
 
 document.getElementById("resume-button-2").onclick = () => {
   window.open(
-    "https://drive.google.com/file/d/1HdwsEM9gQf6qFOw4x_Ya_qzoweu4mrra/view?usp=drive_link"
+    "https://drive.google.com/file/d/1uQlh0-uBj4Noj6_06XWBaDLKqBrEcwuY/view?usp=sharing"
   );
 };
 
