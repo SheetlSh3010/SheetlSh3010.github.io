@@ -66,9 +66,9 @@ body{
   #home>img{
     width: 350px;
     margin: 0% 7%;
-    border-radius: 50%;
+    border-radius: 40%;
     aspect-ratio: 0.8;
-    transition:transform .6s;
+    transition:transform .8s;
   top: 30%;
   left: 50%;
   
